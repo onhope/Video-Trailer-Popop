@@ -107,7 +107,7 @@ list.toggle("myStyle");
 
 학습출처  
 : https://www.youtube.com/@JavaScriptKing  
-: MDN 문서 - HTMLMediaElement     
+: [MDN 문서 - HTMLMediaElement  ](https://developer.mozilla.org/ko/docs/Web/API/HTMLMediaElement)     
 : https://www.w3schools.com/  
 : https://despiteallthat.tistory.com/144 (max-width 이해)
 : https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung/  (중앙정렬)
