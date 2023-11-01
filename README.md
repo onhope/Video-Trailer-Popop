@@ -109,6 +109,6 @@ list.toggle("myStyle");
 https://www.youtube.com/@JavaScriptKing  
 [MDN 문서 - HTMLMediaElement  ](https://developer.mozilla.org/ko/docs/Web/API/HTMLMediaElement)     
 https://www.w3schools.com/  
-https://despiteallthat.tistory.com/144 (max-width 이해)
-https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung/  (중앙정렬)
-https://www.w3schools.com/jsref/prop_element_classlist.asp (classList)
+https://despiteallthat.tistory.com/144  
+https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung   
+https://www.w3schools.com/jsref/prop_element_classlist.asp  
