@@ -106,9 +106,14 @@ list.toggle("myStyle");
 <br>
 
 ## 5. 학습출처  
-- https://www.youtube.com/@JavaScriptKing  
-- [MDN 문서 - HTMLMediaElement  ](https://developer.mozilla.org/ko/docs/Web/API/HTMLMediaElement)     
-- https://www.w3schools.com/  
-- https://despiteallthat.tistory.com/144  
-- https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung   
-- https://www.w3schools.com/jsref/prop_element_classlist.asp  
+**유튜브**   
+https://www.youtube.com/@JavaScriptKing
+
+**CSS**    
+https://developer.mozilla.org/ko/docs/Web/API/HTMLMediaElement         
+https://www.w3schools.com/  
+https://despiteallthat.tistory.com/144  
+https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung   
+
+**JS**     
+https://www.w3schools.com/jsref/prop_element_classlist.asp  
