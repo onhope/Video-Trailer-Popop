@@ -1,6 +1,6 @@
 # Video-Trailer-Popup
 
-<img src="./ezgif.com-video-to-gif.gif">
+<img src="./image.gif">
 
 <br>
 
